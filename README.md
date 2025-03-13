@@ -1,6 +1,8 @@
 # Bustime - public transport online
 
-**Live Demo Available at:** [busti.me](https://busti.me/)
+**Bustime is live! Explore real-time transport tracking at:** [busti.me](https://busti.me/)
+
+**Mobile application source code available at:** https://github.com/bustime-org/bustime-app
 
 Bustime is a full-stack software solution built with Python/Django to process and visualize real-time public transport data. Designed to manage the complete lifecycle of transport tracking, Bustime collects GPS data, including direct communication with tracking devices via low-level protocols, ensuring precise, real-time positioning of vehicles. The platform includes route management, data processing, user rights administration, track history storage, arrival time prediction, and an open-source API for mobile applications. Additionally, Bustime supports the processing of GTFS and GTFS-RT data formats to enhance integration with other transit systems.
 
